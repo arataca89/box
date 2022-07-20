@@ -25,7 +25,7 @@ Box::Box(int n, int m){
 }
 
 Box::~Box(){
-    //cout << "\nDestruindo...\n" << endl;
+    cout << "\nDestruindo a Box\n" << '\n';
     delete[] window;
 }
 
