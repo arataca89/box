@@ -116,6 +116,7 @@ void Box::clear(){
 
 void Box::print()const{
     // desenha a box na tela
+	cout << '\n';
     char *ptr = window;
     for(int i = 0; i < linhas; ++i){
         for(int j = 0; j < colunas; ++j){
