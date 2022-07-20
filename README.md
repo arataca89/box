@@ -32,7 +32,7 @@ Para apagar o texto da box use ```clear()```
 <br><br>
 Exemplo do uso da classe Box:<br><br>
 ![](https://github.com/arataca89/teste_readme/blob/main/box.png)
-<p>Última atualização: 20220719</p>
+<p>Última atualização: 20220720</p>
 <br><br>
 
 ---
